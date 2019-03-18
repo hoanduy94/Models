@@ -1,0 +1,5 @@
+AddSimpleModel(-1, 19379, -2001, "Logo.dff", "Logo.txd");
+AddSimpleModel(-1, 19379, -2002, "Logo.dff", "RankPanel.txd");
+AddSimpleModel(-1, 19379, -2003, "Logo.dff", "UpWeapon.txd");
+AddSimpleModel(-1, 19379, -2004, "Logo.dff", "Weapon.txd");
+AddCharModel(305, 20001, "playerpubg.dff", "playerpubg.txd");
